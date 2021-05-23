@@ -1,43 +1,43 @@
 {
   "personKnowsWho ": [
-  {
-    "id": "123456789",
-    "version": {
-      "edition": "enterprise",
-      "api": "v2",
-      "schema": 0
-    },
-    "error": false,
-    "message": "",
-    "results": [
-      {
-        "startPerson": [
-          {
-            "v_id": "123456789",
-            "v_type": "Person",
-            "attributes": {
-              "fullName": "long nguyen nguyen 1",
-              "dob": "06/29/1986",
-              "email": "ba198647@gmail.com",
-              "gender": "mail",
-              "ethic_group": "Other",
-              "@knowsCount": 0
+    {
+      "id": "123456789",
+      "version": {
+        "edition": "enterprise",
+        "api": "v2",
+        "schema": 0
+      },
+      "error": false,
+      "message": "",
+      "results": [
+        {
+          "startPerson": [
+            {
+              "v_id": "123456789",
+              "v_type": "Person",
+              "attributes": {
+                "fullName": "long nguyen nguyen 1",
+                "dob": "06/29/1986",
+                "email": "ba198647@gmail.com",
+                "gender": "mail",
+                "ethic_group": "Other",
+                "@knowsCount": 0
+              }
             }
-          }
-        ],
-        "Acquaintences": []
-      }
-    ]
-  }
+          ],
+          "Acquaintences": []
+        }
+      ]
+    }
   ],
   "accounts": [
     {
-    "d_card_no": "123456789",
-    "fullName": "Dien Vo",
-    "email": "abc@gmail.com",
-    "dob": "22/04/1994",
-    "gender": "",
-    "ethic_group": "Other"
-}
+      "d_card_no": "123456789",
+      "fullName": "Dien Vo",
+      "email": "abc@gmail.com",
+      "dob": "22/04/1994",
+      "gender": "",
+      "ethic_group": "Other"
+    }
   ]
 }
